@@ -23,7 +23,7 @@ allprojects  {
     }
 }
 dependencies {
-    implementation 'com.github.jdsdhp:sheety:0.1.0'
+    implementation 'com.github.jdsdhp:sheety:$version'
 }
 ```
 <br>
