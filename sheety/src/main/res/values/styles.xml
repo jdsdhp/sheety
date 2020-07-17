@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="SheetyDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/SheetyModalStyle</item>
+    </style>
+
+    <style name="SheetyModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/sheety_shape_top_rounded</item>
+    </style>
+
+</resources>

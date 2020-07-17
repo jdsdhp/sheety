@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item"
+    style="@style/Widget.AppCompat.Button.Borderless"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawablePadding="@dimen/dim_sheety_padding"
+    android:gravity="center_vertical"
+    android:paddingStart="@dimen/dim_sheety_padding_medium"
+    android:paddingTop="@dimen/dim_sheety_padding"
+    android:paddingEnd="@dimen/dim_sheety_padding_medium"
+    android:paddingBottom="@dimen/dim_sheety_padding"
+    android:textAllCaps="false"
+    tools:text="@tools:sample/lorem" />

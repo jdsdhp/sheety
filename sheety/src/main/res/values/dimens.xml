@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding & Margin-->
+    <dimen name="dim_sheety_padding_very_small">4dp</dimen>
+    <dimen name="dim_sheety_padding_small">8dp</dimen>
+    <dimen name="dim_sheety_padding">16dp</dimen>
+    <dimen name="dim_sheety_padding_medium">24dp</dimen>
+    <dimen name="dim_sheety_padding_big">32dp</dimen>
+    <dimen name="dim_sheety_padding_really_big">42dp</dimen>
+
+    <dimen name="dim_sheety_margin_very_small">4dp</dimen>
+    <dimen name="dim_sheety_margin_small">8dp</dimen>
+    <dimen name="dim_sheety_margin">16dp</dimen>
+    <dimen name="dim_sheety_margin_medium">24dp</dimen>
+    <dimen name="dim_sheety_margin_big">32dp</dimen>
+    <dimen name="dim_sheety_margin_really_big">42dp</dimen>
+
+    <dimen name="dim_sheety_card_corner_radius_x2">16dp</dimen>
+
+</resources>

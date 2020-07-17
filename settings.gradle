@@ -1,0 +1,3 @@
+include ':sheety'
+include ':app'
+rootProject.name = "Sheety"
