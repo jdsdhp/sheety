@@ -4,7 +4,8 @@ Sheety
 A simple customization of BottomSheetDialog selector to provide fast and intuitive use.
 
 [![JitPack](https://jitpack.io/v/jdsdhp/sheety.svg)](https://jitpack.io/#jdsdhp/sheety) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jdsdhp/sheety/blob/master/LICENSE) 
+[![API](https://img.shields.io/badge/API-17%2B-red.svg?style=flat)](https://android-arsenal.com/api?level=17) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jdsdhp/sheety/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/badge/Twitter-@jdsdhp-9C27B0.svg)](https://twitter.com/jdsdhp)
 
 ## Screenshots
