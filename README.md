@@ -3,14 +3,13 @@ Sheety
 
 A simple customization of BottomSheetDialog selector to provide fast and intuitive use.
 
-[![Build Status](https://travis-ci.org/kizitonwose/CalendarView.svg?branch=master)](https://travis-ci.org/kizitonwose/CalendarView) 
-[![JitPack](https://jitpack.io/v/kizitonwose/CalendarView.svg)](https://jitpack.io/#kizitonwose/CalendarView) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/kizitonwose/CalendarView/blob/master/LICENSE.md) 
-[![Twitter](https://img.shields.io/badge/Twitter-@jdsdhp-9C27B0.svg)](https://https://twitter.com/jdsdhp)
+[![JitPack](https://jitpack.io/v/jdsdhp/sheety.svg)](https://jitpack.io/#jdsdhp/sheety) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jdsdhp/sheety/blob/master/LICENSE) 
+[![Twitter](https://img.shields.io/badge/Twitter-@jdsdhp-9C27B0.svg)](https://twitter.com/jdsdhp)
 
 ## Screenshots
 
-![](art/art-01.jpg)
+![](art/art-01.png)
 
 ## Including in your project
 
@@ -27,10 +26,11 @@ dependencies {
     implementation 'com.github.jdsdhp:sheety:0.1.0'
 }
 ```
+<br>
 
 ## Usage
 
-#### Kotlin
+### Kotlin
 ```kotlin
 SheetyBuilder(context)
     .title("SheetyDialog")
@@ -45,7 +45,7 @@ SheetyBuilder(context)
     .show()
 ```
 
-#### Styling
+### Styling
 For use rounded corners just add the next line into style.xml file.
 
 ```xml
