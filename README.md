@@ -26,7 +26,6 @@ dependencies {
     implementation 'com.github.jdsdhp:sheety:$version'
 }
 ```
-<br>
 
 ## Usage
 
