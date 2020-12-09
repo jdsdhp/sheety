@@ -19,7 +19,7 @@ package com.jesusd0897.sheety.util
 import android.os.SystemClock
 import android.view.View
 
-internal class SafeClickListener(
+class SafeClickListener(
     private var defaultInterval: Int = 500,
     private val onSafeCLick: (View) -> Unit
 ) : View.OnClickListener {
