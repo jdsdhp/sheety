@@ -1,5 +1,10 @@
-Sheety
+Sheety [DEPRECATED]
 =======
+### Instead, use [Bottom sheets of Material Components for Android](https://github.com/material-components/material-components-android/blob/master/docs/components/BottomSheet.md).
+<br>
+<br>
+
+[![JitPack](https://jitpack.io/v/jdsdhp/sheety.svg)](https://jitpack.io/#jdsdhp/sheety) 
 
 A simple customization of BottomSheetDialog selector to provide fast and intuitive use.
 
